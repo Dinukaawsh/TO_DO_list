@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1097920813131",
+    "project_id": "basic-login-35da4",
+    "storage_bucket": "basic-login-35da4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1097920813131:android:7f41dd6f97e7697c4cd5ce",
+        "android_client_info": {
+          "package_name": "com.example.basiclogin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzhO9BmX_UYk_25T8dDA4GJmIgDoaQfv4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
